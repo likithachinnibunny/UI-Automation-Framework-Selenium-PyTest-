@@ -1,0 +1,11 @@
+ui-automation-framework/
+├── README.md
+├── requirements.txt
+├── pytest.ini
+├── conftest.py
+├── pages/
+│   └── login_page.py
+├── tests/
+│   └── test_login.py
+└── utils/
+    └── config.py
